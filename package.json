@@ -2,7 +2,6 @@
   "name": "bg-image",
   "version": "1.0.0",
   "description": "Prototype, modify and edit a background image position, size, etc. and get a ready to use CSS code for your project",
-  "main": "index.js",
   "repository": "https://github.com/nikitahl/bg-image.git",
   "author": "nikitahl",
   "license": "MIT",
